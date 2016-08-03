@@ -1,0 +1,11 @@
+@font-face {
+        font-family: "Infinity";
+        src: url(../fonts/Infinity.ttf) format("truetype");
+}
+div.div{
+        font-family: "Infinity", Verdana, Tahoma;
+        text-align: center;
+}
+div.div--title{
+        font-size: 120px;
+}
