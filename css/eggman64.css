@@ -1,11 +1,22 @@
 @font-face {
-        font-family: "Infinity";
-        src: url(../fonts/Infinity.ttf) format("truetype");
+    font-family: "Infinity";
+    src: url(../fonts/Infinity.ttf) format("truetype");
 }
 div.div{
-        font-family: "Infinity", Verdana, Tahoma;
-        text-align: center;
+    font-family: "Infinity", Verdana, Tahoma;
+    text-align: center;
 }
 div.div--title{
-        font-size: 120px;
+    font-size: 90px;
+}
+div.div--header{
+    font-size: 50px;
+}
+div.div--links{
+    font-size: 50px;
+}
+a{
+    color: black;
+    text-decoration: initial;
+
 }
