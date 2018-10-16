@@ -13,3 +13,5 @@ url: "http://vinaypinto.com" # the base hostname & protocol for your site
 # Build settings
 markdown: kramdown
 permalink: /blog/:year/:month/:day/:title/
+
+theme: jekyll-theme-minimal
