@@ -1,4 +1,4 @@
 # eggman64.github.io
 meh!
 
-[vinaypinto.com]()
+[https://vinaypinto.com]()
